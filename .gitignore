@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# SSMS / Visual Studio
+*.suo
+*.user
+*.ldf
+*.mdf
+.vs/
+
+# Editor
+.vscode/
+*.swp
+
+# Local environment / temp
+*.bak
+*.tmp

@@ -31,7 +31,7 @@ It covers:
 
 ## 🏛️ Data Architecture
 
-![Data Architecture](docs/data_architecture.svg)
+![Data Architecture](Docs/data_architecture.svg)
 
 | Layer      | Purpose                                                                                   |
 |------------|---------------------------------------------------------------------------------------------------|
@@ -43,11 +43,11 @@ It covers:
 
 ## 🔀 Data Flow
 
-![Data Flow](docs/data_flow.svg)
+![Data Flow](Docs/data_flow.svg)
 
 ## ⭐ Data Model — Star Schema
 
-![Star Schema](docs/data_model_star_schema.svg)
+![Star Schema](Docs/data_model_star_schema.svg)
 
 The Gold layer exposes one fact view and two dimension views:
 
